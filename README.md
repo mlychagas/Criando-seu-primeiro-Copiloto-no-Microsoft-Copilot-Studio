@@ -1,7 +1,7 @@
 # Criando seu primeiro Copiloto no Microsoft Copilot Studio
 Este repositório é o resultado do desafio proposto pelo curso Criando seu primeiro Copiloto no Microsoft Copilot Studio.
 # Etapa 1
-Conecte-se a uma conta do Microsoft 365 acessando [copilotstudio](copilotstudio.microsoft.com)Caso não possua uma conta, é possível criar uma versão de avaliação gratuita.
+Conecte-se a uma conta do Microsoft 365 acessando [copilotstudio](copilotstudio.microsoft.com). Caso não possua uma conta, é possível criar uma versão de avaliação gratuita.
 
 
 obs: É necessário que a conta seja corporativa ou de estudante para realizar a conexão.
